@@ -1,0 +1,23 @@
+[33mcommit 3a9010878049b96bc8adaef6fbd239ba236ca502[m[33m ([m[1;36mHEAD -> [m[1;32mtitulo[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: italolimadev <italolima93@gmail.com>
+Date:   Thu Jan 26 15:44:37 2023 -0300
+
+    renomeando Curso de Integração Contínua
+
+[33mcommit 71bd87a64ad41bb085c55df87f0e64545f4af405[m
+Author: Italo Lima <italolima93@gmail.com>
+Date:   Thu Jan 26 12:46:37 2023 -0300
+
+    adicionando um git ignore
+
+[33mcommit 07d3d3543db10d8311b2db2ec21bbc8a619be4f5[m
+Author: Italo Lima <italolima93@gmail.com>
+Date:   Thu Jan 26 12:31:32 2023 -0300
+
+    correção ortográfica simples
+
+[33mcommit 03d314b7409e1570feb67eb1a77e44e0834fd55f[m
+Author: Italo Lima <italolima93@gmail.com>
+Date:   Thu Jan 26 12:30:01 2023 -0300
+
+    criando arquivo index.html
